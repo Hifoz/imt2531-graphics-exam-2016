@@ -1,0 +1,9 @@
+g resources/textures/track01.png
+t resources/models/
+p resources/models/plane.obj
+c resources/models/car.obj
+tp 0, 0, -15
+tp 3, 60, 10
+tp 1, -15, 65
+tp 2, 42, 15
+tp 2, -40, -10

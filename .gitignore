@@ -1,0 +1,9 @@
+*.tlog
+*.opensdf
+*.idb
+*.sdf
+
+*.exe
+*.o
+
+*/Debug
